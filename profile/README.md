@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="./logo.png"  />
-</div>
-
-###
-
 <h1 align="center">Bienvenue chez Contestio</h1>
 
 ###
